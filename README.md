@@ -1,4 +1,4 @@
-PyTorch DGCNN
+EAGLE
 =============
 
 About
@@ -30,9 +30,6 @@ Process the key prediction result:
 
 ```
 g++ result.cpp -o result
-```
-
-```
 ./result c1908
 ```
 
@@ -57,7 +54,7 @@ To train GNN and get prediction without synthetic data:
 
 To train GNN and get prediction with synthetic data:
 
-    
+
     python Main_syndata.py --file-name c1908_K128_DMUX --circuit-name c1908 --train-name links_train.txt  --test-name links_test.txt --testneg-name link_test_n.txt --hop 3  --save-model > Log_train_c1908_DMUX_K128.txt
     
     python Main_syndata.py  --file-name c1908_K128_DMUX --circuit-name c1908 --train-name links_train.txt  --test-name links_test.txt --hop 3  --only-predict > Log_pos_predict_c1908_DMUX_K128.txt
