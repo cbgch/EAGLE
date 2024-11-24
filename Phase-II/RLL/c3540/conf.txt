@@ -1,0 +1,5 @@
+inputSize: 50      
+outputSize: 22     
+keySize: 64
+realKey: 1101001010000011100001011101001011000101111101111110011000000101
+key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

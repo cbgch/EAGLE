@@ -1,0 +1,5 @@
+inputSize: 206      
+outputSize: 107     
+keySize: 128
+realKey: 00010110100011011000011011111010001101010011000000101110010010001011101010111101100101010110100101111000101100001110001010010011
+key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
