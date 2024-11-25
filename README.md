@@ -4,9 +4,7 @@ EAGLE
 About
 -----
 
-Official Code Repository for “Enhancing Attacks on Logic Locking with LLMs 
-
-and Evolutionary Key Search”.
+Code Repository for “Enhancing Attacks on Logic Locking with LLMs and Evolutionary Key Search”.
 
 ## Usage
 
